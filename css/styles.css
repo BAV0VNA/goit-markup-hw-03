@@ -57,6 +57,7 @@ header .container {
   color: #2e2f42;
   display: flex;
   align-items: center;
+  margin-right: 332px;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -80,7 +81,6 @@ header .container {
 .navigation-list {
   display: flex;
   gap: 40px;
-  margin-right: 332px;
 }
 .navigation-item {
 }
@@ -91,6 +91,7 @@ header .container {
   letter-spacing: 0.02em;
   color: #2e2f42;
   padding: 24px 0;
+  display: block;
 }
 .navigation-link:hover,
 .navigation-link:focus {
@@ -111,6 +112,7 @@ header .container {
   letter-spacing: 0.02em;
   color: #434455;
   padding: 24px 0;
+  display: block;
 }
 .address-link:hover,
 .address-link:focus {
